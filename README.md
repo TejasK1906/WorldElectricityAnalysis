@@ -118,12 +118,7 @@ Regions belonging to lower and lower middle income have comparatively lower elec
 ![image](https://user-images.githubusercontent.com/108053296/189940016-b2f9ffd2-ff3c-46a7-90a0-ac2929953469.png)
 
    
-   2. 
-   
-   3. 
-   
-   4. 
-
+ 
 
 <!--  ## <img src=https://user-images.githubusercontent.com/106439762/178809088-a2d780ad-94f5-4a58-9203-7716d4b2cbf4.gif width="48" height="48"> About Me
 I'm an aspiring data analyst...
