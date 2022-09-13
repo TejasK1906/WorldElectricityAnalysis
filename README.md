@@ -27,25 +27,31 @@ This depository contains the analysis of World Electricity Accsessibility and th
 ##  <img src=https://user-images.githubusercontent.com/106439762/178428775-03d67679-9aa4-4b08-91e9-6eb6ed8faf66.gif  width="48" height="48"> Analysis
    
     
-    o       Analysed the working of the property rental company.    
+    o       Analysed The Accessibilty of eletricity in different countries. 
     
-    o	Explored the trends for the different property types listed on the platform.
+    o	Explored the trends for the different regions and their electrification across the rural and urban areas in the country.
      
-    o	Studied the trends of the different property categories and provided the insights on the same.
+    o	Studied the growth trends of count of countires over 75% electrification over the years .
   
-    o	Analysed if there is any correlation between property type and their availability across months. 
+    o	Analysed if there is any correlation between Income group of country  and their electrification across regions. 
     
-    o	Explored the peak and off peak time for different property types and their listings.
+    o	Comparison of access to electricity post 2000s in different countries.
     
-    o	Analysed the acceptance rate, ratings, price, accomodates with respect to diffrent property types.
+    o	Presented a way to compare every country’s performance with respect to world average for every year
 
-    o	Demonstrated the relationship between price of the property and number of accomodates.
+    o	Defined a way to present the evolution of nuclear power presence based on Region and IncomeGroup.
+    
+    o Analysed production of electricity across different sources (nuclear, oil, etc.) as a function of time
+    
+    o Illustrated a way to calculated the average the average of electricition of countries in different areas
 
 
 
 ##  <img src=https://user-images.githubusercontent.com/106439762/178803205-47a08ce7-2187-4f96-b301-a2b68690619a.gif width="48" height="48" > Prior Knowledge
 ![language-sql](https://user-images.githubusercontent.com/106439762/181936585-d44c5f7c-2a7b-4d35-ad8a-61dcbded1a5e.svg)
 ![microsoft-sql-server](https://user-images.githubusercontent.com/106439762/181936612-f96e085e-2d4b-4bc0-8347-1f3e0a894395.svg)
+![pyhton-pandas](https://user-images.githubusercontent.com/106439762/177094844-d74edfa1-823d-4f17-8d94-3600e058cf1e.svg)
+
 
 
 
