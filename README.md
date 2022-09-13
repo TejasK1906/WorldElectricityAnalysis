@@ -101,13 +101,28 @@ This depository contains the analysis of World Electricity Accsessibility and th
 
 ## <img src="https://user-images.githubusercontent.com/108053296/185756908-fbb62168-d923-48f2-992f-b8e2fde848fe.gif" width="48" height="48" > Conclusion
    
-   1. Most of the reviews and ratings from the customers buying different properties were positive which shows that the customers are satisfied with the kind of property the company is offering.
+   1. North America And Europe have the highest average electrification in both rural and urban areas as they are among highly developed regions in the world. 
+Regions belonging to lower and lower middle income have comparatively lower electrification along with considerable difference of distribution between rural and urban areas.
    
-   2. March-April and December is peak season for the company and around June month is the off peak season.
+   2. There is gradual increase in number of developing countries accomplishing minimum 75% electrification over the last two decades.
    
-   3. Properties in Vancouver is way more costlier than that of properties in Toronto.
+   3. Developed regions have increased their electricity production through nuclear sources whereas some developing regions have gradually started increasing their foothold in nuclear power generation while some regions have been unable to do so.
    
-   4. Shared rooms have worse cleanliness rating and also priced low compared to others.
+   4. Transmission loss has been highest among the countries having poor economy, political instability , infrastructure issues and outdated technologies.
+   
+   5. Countries having emphasis on tourism , geographical & demographic constraint have seen highest growth rate of electrification in the last two decades.
+   
+   6. Higher income region have been in forefront of increasing renewable energy production along with nuclear sources whereas middle and lower middle countries are in gradual process.
+    
+
+![image](https://user-images.githubusercontent.com/108053296/189940016-b2f9ffd2-ff3c-46a7-90a0-ac2929953469.png)
+
+   
+   2. 
+   
+   3. 
+   
+   4. 
 
 
 <!--  ## <img src=https://user-images.githubusercontent.com/106439762/178809088-a2d780ad-94f5-4a58-9203-7716d4b2cbf4.gif width="48" height="48"> About Me
