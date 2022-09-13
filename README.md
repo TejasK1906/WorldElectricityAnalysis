@@ -8,7 +8,7 @@ This depository contains the analysis of World Electricity Accsessibility and th
 
 <br>
 <br>
-<p align="center"><a><img src="https://forthebadge.com/images/badges/built-with-love.svg"><img src="https://user-images.githubusercontent.com/106439762/181936448-9314e858-4251-46d6-b4d1-35a4c29e9c19.svg"><img src="https://user-images.githubusercontent.com/106439762/181936483-50475e86-bcf1-4169-994c-6476dc2e5edb.svg"></a></p>
+<p align="center"><a><img src="https://forthebadge.com/images/badges/built-with-love.svg"><img src="https://user-images.githubusercontent.com/106439762/181936448-9314e858-4251-46d6-b4d1-35a4c29e9c19.svg"><img src="https://forthebadge.com/images/badges/made-with-python.svg"></a></p>
 
 ##  <img src="https://user-images.githubusercontent.com/106439762/181935629-b3c47bd3-77fb-4431-a11c-ff8ba0942b63.gif" width="48" height="48"> **User's Manual**
 
