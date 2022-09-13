@@ -41,9 +41,9 @@ This depository contains the analysis of World Electricity Accsessibility and th
 
     o	Defined a way to present the evolution of nuclear power presence based on Region and IncomeGroup.
     
-    o Analysed production of electricity across different sources (nuclear, oil, etc.) as a function of time
+    o       Analysed production of electricity across different sources (nuclear, oil, etc.) as a function of time
     
-    o Illustrated a way to calculated the average the average of electricition of countries in different areas
+    o       Illustrated a way to calculated the average the average of electricition of countries in different areas
 
 
 
