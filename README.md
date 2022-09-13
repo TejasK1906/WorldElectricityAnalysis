@@ -1,7 +1,7 @@
 # 
-# <img src="https://user-images.githubusercontent.com/108053296/185731493-565fc7cd-50de-4fba-af77-7eec53f6e596.png" width="48" height="48" >  **World Electricity Analysis Through SQL, Python Ana Excel**
+# <img src="https://user-images.githubusercontent.com/108053296/189921320-abb31def-2803-4ece-982a-4d762a5fe87a.jpg" width="48" height="48" >  **World Electricity Analysis Through SQL, Python And Excel**
 
-This depository contains the analysis of World Electricity Accsessibility and the different sources of electricity prodution for different countries. project's objectives, which were to investigate accessibility patterns for various nations,Additionally, it compared the production of various power generation sources in different regions. Moreover, it aimed to reveal some of the datasets' hidden insights. The data cleaning part was done in python, the aggregation of data and formation of tables in SQL and the analysis of data  along with the  visualisation in excel.
+This depository contains the analysis of World Electricity Accsessibility and the different sources of electricity prodution for different countries. The Project's objectives  were to investigate accessibility patterns for various nations,Additionally, it compared the production of various power generation sources in different regions. Moreover, it aimed to reveal some of the datasets' hidden insights. The data cleaning part was done in python, the aggregation of data and formation of tables in SQL and the analysis of data  along with the  visualisation in excel.
 
 
 
@@ -10,17 +10,17 @@ This depository contains the analysis of World Electricity Accsessibility and th
 <br>
 <p align="center"><a><img src="https://forthebadge.com/images/badges/built-with-love.svg"><img src="https://user-images.githubusercontent.com/106439762/181936448-9314e858-4251-46d6-b4d1-35a4c29e9c19.svg"><img src="https://user-images.githubusercontent.com/106439762/181936483-50475e86-bcf1-4169-994c-6476dc2e5edb.svg"></a></p>
 
-##  <img src="https://user-images.githubusercontent.com/108053296/189920085-864352a1-f059-41e5-ade0-ab4876caf550.gif" width="48" height="48"> **User's Manual**
+##  <img src="https://user-images.githubusercontent.com/106439762/181935629-b3c47bd3-77fb-4431-a11c-ff8ba0942b63.gif" width="48" height="48"> **User's Manual**
 
 | Files/Folder| Description |
 | ------------- | ------------- |
-| **** | This folder contains the zip file of the dataset used.  |
+| **World Electricit ** | This folder contains the zip file of the dataset used.  |
 | **Project PPT** | This folder contains the ppt presentation of the project.|
 | **Project SQL File**  | This file provides you .sql format file of the project  |
 | **Project Excel File**  | This file provides the excel wooksheet containing pivot tables and dashboard  |
 <br>
 
-<p align="center"><img src="https://user-images.githubusercontent.com/108053296/185732888-39f69567-127a-4a20-ad80-2381ab16739f.gif" width="400" ></p>
+<p align="center"><img src="https://user-images.githubusercontent.com/108053296/189920716-560b819b-12ad-4f6e-95b4-f86cbb10e566.gif" width="400" ></p>
 
 ##  <img src=https://user-images.githubusercontent.com/106439762/178428775-03d67679-9aa4-4b08-91e9-6eb6ed8faf66.gif  width="48" height="48"> Analysis
    
