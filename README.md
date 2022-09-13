@@ -89,9 +89,9 @@ This depository contains the analysis of World Electricity Accsessibility and th
    
 
 
-<!--## <img src="https://www.getcloudapp.com/wp-content/uploads/2021/03/5aebb952e4867ce13f4d308f_laptop_gif_trans.gif" width="70" height="48"/> Screenshots
+<img src="https://www.getcloudapp.com/wp-content/uploads/2021/03/5aebb952e4867ce13f4d308f_laptop_gif_trans.gif" width="70" height="48"/> Screenshots
 
-<p align="center"><a><img src="https://user-images.githubusercontent.com/106439762/182037005-e30516c1-390c-4c21-a2b6-0f8c2865eed3.gif"</a></p> -->
+<p align="center"><a><img src="https://user-images.githubusercontent.com/106439762/182037005-e30516c1-390c-4c21-a2b6-0f8c2865eed3.gif"</a></p> 
 
 
 <br>
