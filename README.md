@@ -14,10 +14,12 @@ This depository contains the analysis of World Electricity Accsessibility and th
 
 | Files/Folder| Description |
 | ------------- | ------------- |
-| **World Electricit ** | This folder contains the zip file of the dataset used.  |
-| **Project PPT** | This folder contains the ppt presentation of the project.|
-| **Project SQL File**  | This file provides you .sql format file of the project  |
-| **Project Excel File**  | This file provides the excel wooksheet containing pivot tables and dashboard  |
+| **Excel Dashboard ana Analysis** | This file contains the excel worksheets and dashboard of the insights. |
+| **World Electricity IPYNB** | This file contains the ipynb code of the data cleaning part. |
+| **Project SQL Queries**  | This file provides SQL queries of the aggregation of the data   |
+| **Project PPT Files**  | This file provides the powerpoint presentation which contains all the major insights and conclusions.  |
+| **Raw Data Files**  | This folder provides the raw data for the analysis .  |
+| **Final CSV Files**  | This folder provides the final csv files after the data cleaning.  |
 <br>
 
 <p align="center"><img src="https://user-images.githubusercontent.com/108053296/189920716-560b819b-12ad-4f6e-95b4-f86cbb10e566.gif" width="400" ></p>
