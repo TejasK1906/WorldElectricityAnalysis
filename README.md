@@ -1,7 +1,7 @@
 # 
 # <img src="https://user-images.githubusercontent.com/108053296/189921320-abb31def-2803-4ece-982a-4d762a5fe87a.jpg" width="48" height="48" >  **World Electricity Analysis Through SQL, Python And Excel**
 
-This depository contains the analysis of World Electricity Accsessibility and the different sources of electricity prodution for different countries. The Project's objectives  were to investigate accessibility patterns for various nations,Additionally, it compared the production of various power generation sources in different regions. Moreover, it aimed to reveal some of the datasets' hidden insights. The data cleaning part was done in python, the aggregation of data and formation of tables in SQL and the analysis of data  along with the  visualisation in excel.
+**This depository contains the analysis of World Electricity Accsessibility and the different sources of electricity prodution for different countries. The Project's objectives  were to investigate accessibility patterns for various nations,Additionally, it compared the production of various power generation sources in different regions. Moreover, it aimed to reveal some of the datasets' hidden insights. The data cleaning part was done in python, the aggregation of data and formation of tables in SQL and the analysis of data  along with the  visualisation in excel.**
 
 
 
